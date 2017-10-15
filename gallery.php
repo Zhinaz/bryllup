@@ -7,7 +7,7 @@
 	
 		<div class="fh5co-hero" data-section="home">
 			<div class="fh5co-overlay"></div>
-			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg);">
+			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/background-4.jpg);">
 				<div class="display-t">
 					<div class="display-tc">
 						<div class="container">
@@ -31,7 +31,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-                      <h2>Bryllups galleri</h2>
+                      <h2>Bryllup's galleriet</h2>
                   </div>
               </div>
               <div class="row">
