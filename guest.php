@@ -33,20 +33,20 @@
               <h2>Gæster</h2>
           </div>
       </div>
-      <div class="row animate-box">
+      <!--<div class="row animate-box">
           <div class="col-md-8 col-md-offset-2 text-center">
               <h1>... er ved at blive spurgt</h1>
           </div>
-      </div>
-      <!--<div class="row row-bottom-padded-lg">
+      </div>-->
+      <div class="row row-bottom-padded-lg">
         <div class="col-md-3 text-center animate-box">
           <div class="groom-men">
             <img src="images/groom-men-1.jpg" class="img-responsive">
-            <h3>Arthur Stone</h3>
+            <h3>Sebastian Rosenørn De Lasson</h3>
             <h2>Forlover</h2>
           </div>
         </div>
-        <div class="col-md-3 text-center animate-box">
+        <!--<div class="col-md-3 text-center animate-box">
           <div class="groom-men">
             <img src="images/groom-men-2.jpg" class="img-responsive">
             <h3>Mike Paterson</h3>
@@ -66,8 +66,8 @@
             <h3>Blake Haste</h3>
             <h2>Toastmaster</h2>
           </div>
-        </div>
-      </div>-->
+        </div>-->
+      </div>
     </div>
   </div>
 
