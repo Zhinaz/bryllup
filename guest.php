@@ -47,9 +47,9 @@
           </div>
         </div>
         <div class="col-md-4 text-center animate-box">
-          <div class="bridesmaid">
+          <div class="groom-men">
             <img src="images/groom-men-2.jpg" class="img-responsive">
-            <h3>... er ved at blive spurgt</h3>
+            <h3>Monica Topholm</h3>
             <h2>Brudepige</h2>
           </div>
         </div>
