@@ -63,7 +63,8 @@
         <div class="col-md-4 text-center animate-box">
           <div class="groom-men">
             <img src="images/groom-men-4.jpg" class="img-responsive">
-            <h3>... er ved at blive spurgt</h3>
+            <h3>Kristoffer Nygård Jensen</h3>
+            <h3>Kristoffernj17@gmail.com</h3>
             <h2>Toastmaster</h2>
           </div>
         </div>

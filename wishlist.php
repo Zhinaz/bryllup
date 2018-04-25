@@ -59,6 +59,8 @@
           <li class="list-group-item borderless">Raw Middagstallerken - Nude 28cm - <a href="https://www.imerco.dk/borddaekning/stel/tallerkener/raw-middagstallerken-28-cm-1-stk?id=100361458">Ses her</a> - Kun en tallerken ønskes</li>
           <li class="list-group-item borderless">Palletkniv - Gerne med stort hoved</li>
           <li class="list-group-item borderless">Natbordslamper - Med fod, 2 stks</li>
+          <li class="list-group-item borderless">Skænk STOCKHOLM - IKEA - <a href="https://www.ikea.com/dk/da/catalog/products/40239721/">Ses her</a></li>
+          <li class="list-group-item borderless">Lékué Riskoger - Stor - <a href="https://www.bahne.dk/lekue-riskoger.html">Ses her</a></li>
           <li class="list-group-item borderless">Bagagevægt</li>
           <li class="list-group-item borderless">Billetter til 'Kærlighed ved første hik' musical - 2 stks - <a href="https://www.hikmusical.dk/">Ses her</a></li>
           <li class="list-group-item borderless">Penge til spisebordsstole</li>
