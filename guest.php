@@ -81,6 +81,7 @@
           <li class="list-group-item borderless">Jesper Mølbak</li>
           <li class="list-group-item borderless">Vibeke Hvass Mølbak</li>
           <li class="list-group-item borderless">Victor Hvass Mølbak</li>
+          <li class="list-group-item borderless">Astrid Vægter Thomsen</li>
           <li class="list-group-item borderless">Henning Madsen</li>
           <li class="list-group-item borderless">Kirsten Mølbak</li>
           <li class="list-group-item borderless">Ole Lentz</li>
@@ -116,6 +117,7 @@
           <li class="list-group-item borderless">Yrsa</li>
           <li class="list-group-item borderless">Niels Peter Andersen</li>
           <li class="list-group-item borderless">Mikkel Andersen</li>
+          <li class="list-group-item borderless">Kristine Veirum Simonsen</li>
           <li class="list-group-item borderless">Kasper Andersen</li>
           <li class="list-group-item borderless">Anja Mølbæk Bagge</li>
           <li class="list-group-item borderless">Monica Topholm</li>
