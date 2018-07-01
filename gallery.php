@@ -132,32 +132,57 @@
       </div>
       <div class="row">
         <div class="col-md-4">
-          <div class="gallery animate-box">
-            <a class="gallery-img image-popup image-popup" href="gallery-images/gallery-1.jpg"><img src="gallery-images/gallery-1.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
-          </div>
-          <div class="gallery animate-box">
-            <a class="gallery-img image-popup" href="gallery-images/gallery-7.jpg"><img src="gallery-images/gallery-7.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
-          </div>
+          
+          <?php
+          $dirname = "gallery-images/";
+          $images = glob($dirname."*.jpg");
+
+          $filecount = 0;
+          $files = glob($directory . "*");
+          if ($files){
+           $filecount = count($files);
+          }
+
+          $i1 = 0;
+          foreach($images as $image) {
+            if (($i1 % 3) == 0) {
+              echo '<div class="gallery animate-box">
+                      <a class="gallery-img image-popup image-popup" href="'.$image.'"><img src="'.$image.'" class="img-responsive"></a>
+                    </div>';
+            }
+          $i1++;
+          }
+          ?>
         </div>
+        
         <div class="col-md-4">
-          <div class="gallery animate-box">
-            <a class="gallery-img image-popup" href="gallery-images/gallery-6.jpg"><img src="gallery-images/gallery-6.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
-          </div>
-          <div class="gallery animate-box">
-            <a class="gallery-img image-popup" href="gallery-images/gallery-2.jpg"><img src="gallery-images/gallery-2.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
-          </div>
-          <div class="gallery animate-box">
-            <a class="gallery-img image-popup" href="gallery-images/gallery-5.jpg"><img src="gallery-images/gallery-5.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
-          </div>
+          <?php
+          $i2 = 0;
+          foreach($images as $image) {
+            if (($i2 % 3) == 1) {
+              echo '<div class="gallery animate-box">
+                      <a class="gallery-img image-popup image-popup" href="'.$image.'"><img src="'.$image.'" class="img-responsive"></a>
+                    </div>';
+            }
+          $i2++;
+          }
+          ?>
         </div>
+        
         <div class="col-md-4">
-          <div class="gallery animate-box">
-            <a class="gallery-img image-popup" href="gallery-images/gallery-3.jpg"><img src="gallery-images/gallery-3.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
-          </div>
-          <div class="gallery animate-box">
-            <a class="gallery-img image-popup" href="gallery-images/gallery-4.jpg"><img src="gallery-images/gallery-4.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co"></a>
-          </div>
+          <?php
+          $i3 = 0;
+          foreach($images as $image) {
+            if (($i3 % 3) == 2) {
+              echo '<div class="gallery animate-box">
+                      <a class="gallery-img image-popup image-popup" href="'.$image.'"><img src="'.$image.'" class="img-responsive"></a>
+                    </div>';
+            }
+          $i3++;
+          }
+          ?>
         </div>
+        
       </div>
     </div>
   </div>
