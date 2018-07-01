@@ -129,9 +129,18 @@
         <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
           <h2>Bryllup's galleriet</h2>
         </div>
+        <div class="col-md-4 col-md-offset-4 text-center animate-box">
+          <p><strong><a href="https://photos.app.goo.gl/jMLMuH9vxvoKdjib6">Google Fotos</a></strong></p>
+          <p>Se alle billederne fra festen</p>
+        </div>
+          
       </div>
       <div class="row">
-        <div class="col-md-4">
+        
+       
+        
+        
+        <!--<div class="col-md-4">
           
           <?php
           $dirname = "gallery-images/";
@@ -147,7 +156,7 @@
           foreach($images as $image) {
             if (($i1 % 3) == 0) {
               echo '<div class="gallery animate-box">
-                      <a class="gallery-img image-popup image-popup" href="'.$image.'"><img src="'.$image.'" class="img-responsive"></a>
+                      <a class="gallery-img image-popup" href="'.$image.'"><img HEIGHT=80 src="'.$image.'" class="img-responsive"></a>
                     </div>';
             }
           $i1++;
@@ -161,7 +170,7 @@
           foreach($images as $image) {
             if (($i2 % 3) == 1) {
               echo '<div class="gallery animate-box">
-                      <a class="gallery-img image-popup image-popup" href="'.$image.'"><img src="'.$image.'" class="img-responsive"></a>
+                      <a class="gallery-img image-popup" href="'.$image.'"><img HEIGHT=80 src="'.$image.'" class="img-responsive"></a>
                     </div>';
             }
           $i2++;
@@ -175,13 +184,13 @@
           foreach($images as $image) {
             if (($i3 % 3) == 2) {
               echo '<div class="gallery animate-box">
-                      <a class="gallery-img image-popup image-popup" href="'.$image.'"><img src="'.$image.'" class="img-responsive"></a>
+                      <a class="gallery-img image-popup" href="'.$image.'"><img HEIGHT=80 src="'.$image.'" class="img-responsive"></a>
                     </div>';
             }
           $i3++;
           }
           ?>
-        </div>
+        </div>-->
         
       </div>
     </div>
